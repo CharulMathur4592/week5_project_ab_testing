@@ -6,3 +6,4 @@ data/*/.DS_Store
 data/*/.ipynb_checkpoints/
 .venv/
 week_5/
+notebooks/.DS_Store
